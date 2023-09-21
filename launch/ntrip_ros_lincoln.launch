@@ -8,7 +8,7 @@
 
 		<!-- closest Lincoln: ARL-RTK or ER_Pollybell_1 or young_f9p for Norwich: NR152QB or IP270RL-->
 
-		<param name="ntrip_stream" value="ARL-RTK"/>
+		<param name="ntrip_stream" value="ER_Pollybell_1"/>
 		<param name="nmea_gga" value="$GPGGA,143732.378,5313.613,N,00032.879,W,1,12,1.0,0.0,M,0.0,M,,*77"/> <!-- Lincoln -->
 
 		<!--<param name="ntrip_stream" value="IP270RL"/>
