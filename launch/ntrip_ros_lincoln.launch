@@ -2,7 +2,7 @@
 <launch>
 	<node pkg="ntrip_ros" type="ntripclient.py" name="ntrip_ros" output="screen">
 		<param name="rtcm_topic" value="/rtcm"/>
-		<param name="ntrip_server" value="rtk2go.com:2101"/>
+		<param name="ntrip_server" value="3.143.243.81:2101"/> <!-- rtk2go.com:2101 -->
 		<param name="ntrip_user" value="rlloyd@lincoln.ac.uk"/>
 		<param name="ntrip_pass" value="none"/>
 
